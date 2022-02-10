@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nanthapong Donagjinda</h1>
 <h3 align="center">An Internship Software Engineer</h3>
 
-- 🌱 I’m currently learning **React & Next JS**
+- 🌱 I’m currently studying at King Mongkut's University of Technology North Bangkok(KMUTNB).
 
 - 📫 How to reach me **Nanthapong.D@gmail.com**
 
