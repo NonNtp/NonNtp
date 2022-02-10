@@ -25,7 +25,6 @@ Bangkok (KMUTNB) . - 📫 How to reach me **Nanthapong.D@gmail.com**
 	/></a>
 </p>
 
-<h1>Skill :</h1>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
 	<a
