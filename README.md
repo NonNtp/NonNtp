@@ -12,7 +12,7 @@ Bangkok (KMUTNB) . </p>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/non-nanthapong-b577bb211/" target="blank"
