@@ -6,11 +6,13 @@
 
 <p> - 🌱 I’m currently studying at King Mongkut's University of Technology North
 Bangkok (KMUTNB) . </p>
+<br>
 <p> - 📫 How to reach me **Nanthapong.D@gmail.com** </p>
 
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 	<a href="https://www.linkedin.com/in/non-nanthapong-b577bb211/" target="blank"
 		><img
