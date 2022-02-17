@@ -7,6 +7,7 @@
 <p> - 🌱 I’m currently studying at King Mongkut's University of Technology North
 Bangkok (KMUTNB) . </p>
 <br>
+
 <p> - 📫 How to reach me **Nanthapong.D@gmail.com** </p>
 
 <br>
@@ -31,7 +32,7 @@ Bangkok (KMUTNB) . </p>
 			width="40"
 	/></a>
 </p>
-
+<br>
 <h3 align="left">Language and Tools : </h3>
 <p align="left">
 	<a
@@ -116,6 +117,7 @@ Bangkok (KMUTNB) . </p>
 <br>
 
 </p>
+<br>
 
 <h3 align="left">Statistical Data : </h3>
 <p><img align="center"
