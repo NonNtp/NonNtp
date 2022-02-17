@@ -26,7 +26,7 @@ Bangkok (KMUTNB) . </p>
 	/></a>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Skill : </h3>
 <p align="left">
 	<a
 		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
