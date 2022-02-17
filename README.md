@@ -26,7 +26,7 @@ Bangkok (KMUTNB) . </p>
 	/></a>
 </p>
 
-<h3 align="left">My working tools : </h3>
+<h3 align="left">Language and Tools : </h3>
 <p align="left">
 	<a
 		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -80,14 +80,7 @@ Bangkok (KMUTNB) . </p>
 			height="40"
 		/>
 	</a>
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-	<img
-		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-		alt="express"
-		width="40"
-		height="40"
-	/>
-</a>
+	
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
 	<img
 		src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -104,14 +97,7 @@ Bangkok (KMUTNB) . </p>
 		height="40"
 	/>
 </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-	<img
-		src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-		alt="nextjs"
-		width="40"
-		height="40"
-	/>
-</a>
+
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
