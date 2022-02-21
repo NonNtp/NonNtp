@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nanthapong Donagjinda</h1>
 <h3 align="center">An Internship Software Engineer</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 <p> - 🌱 I’m currently studying at King Mongkut's University of Technology North
 Bangkok (KMUTNB) . </p>
 <br>
@@ -91,14 +89,7 @@ Bangkok (KMUTNB) . </p>
 		/>
 	</a>
 	
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-	<img
-		src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-		alt="graphql"
-		width="40"
-		height="40"
-	/>
-</a>
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 	<img
 		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
