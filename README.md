@@ -117,7 +117,7 @@ Bangkok (KMUTNB) . </p>
 </a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 	<img
-		src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png"
+		src="https://miro.medium.com/max/1184/1*gOT578JI8RyXBqYmyTU6gw.png"
 		alt="nodejs"
 		width="40"
 		height="40"
