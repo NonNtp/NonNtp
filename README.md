@@ -117,7 +117,7 @@ Bangkok (KMUTNB) . </p>
 </a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 	<img
-		src="https://blog.codeminer42.com/wp-content/uploads/2021/02/nextjs-cover.jpg"
+		src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/UVlzv5dlRqaKaswsfUPk"
 		alt="nodejs"
 		width="40"
 		height="40"
