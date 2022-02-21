@@ -107,7 +107,23 @@ Bangkok (KMUTNB) . </p>
 		height="40"
 	/>
 </a>
-	 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" color="white"/> </a>
+	<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+	<img
+		src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"
+		alt="nodejs"
+		width="40"
+		height="40"
+	/>
+</a>
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+	<img
+		src="https://ichi.pro/assets/images/max/724/1*Hva7hcsFWulFUPhrEWui1A.jpeg"
+		alt="nodejs"
+		width="40"
+		height="40"
+	/>
+</a>
+	
 
 <br>
 
