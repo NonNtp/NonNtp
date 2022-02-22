@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=90)
+<style>
+	img {
+		object-fit: cover;
+	}
+</style>
+
 <h1 align="center">Hi 👋, I'm Nanthapong Donagjinda</h1>
 <h3 align="center">An Internship Software Engineer</h3>
 
