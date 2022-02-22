@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=&fontSize=90)
 <h1 align="center">Hi 👋, I'm Nanthapong Donagjinda</h1>
-<h3 align="center">An Internship Software Engineer</h3>
+<h3 align="center">An Internship Full Stack Developer</h3>
 
 <p> - 🌱 I’m currently studying at King Mongkut's University of Technology North
 Bangkok (KMUTNB) . </p>
