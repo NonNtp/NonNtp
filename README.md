@@ -36,7 +36,6 @@ Bangkok (KMUTNB) . </p>
 <br>
 
 </p>
-<br>
 
 <h3 align="left">Statistical Data : </h3>
 <p><img align="center"
