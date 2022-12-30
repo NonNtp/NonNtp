@@ -35,9 +35,6 @@ Bangkok (KMUTNB) . </p>
 </p>
 <br>
 
-
-<br>
-
 </p>
 <br>
 
