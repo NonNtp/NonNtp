@@ -35,40 +35,6 @@ Bangkok (KMUTNB) . </p>
 </p>
 <br>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-	<img
-		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-		alt="mongodb"
-		width="40"
-		height="40"
-	/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-	<img
-		src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-		alt="nodejs"
-		width="40"
-		height="40"
-	/>
-</a>
-	<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-	<img
-		src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"
-		alt="nodejs"
-		width="40"
-		height="40"
-	/>
-</a>
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-	<img
-		src="https://cdn.getshifter.co/caa65008efb706a8bfc6f7e4045d6a018420c3df/uploads/2020/11/nextjs.png"
-		alt="nodejs"
-		width="40"
-		height="40"
-	/>
-</a>
-	
 
 <br>
 
