@@ -4,8 +4,11 @@ Hi 👋 My name is Nanthapong Doangjinda
 4th-year Computer Science Student
 ---------------------------------
 
-*   🌍  I'm based in Bangkok , Thailand
-*   ✉️  You can contact me at [nanthapong.d@gmail.com](mailto:nanthapong.d@gmail.com)### Skills 
+* 🌍  I'm based in Bangkok , Thailand
+* ✉️  You can contact me at [nanthapong.d@gmail.com](mailto:nanthapong.d@gmail.com)
+
+### Skills
+
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -30,6 +33,7 @@ Hi 👋 My name is Nanthapong Doangjinda
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/NonNtp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nntpd_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/non-nanthapong-b577bb211/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
