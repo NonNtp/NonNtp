@@ -1,7 +1,7 @@
 Hi 👋 My name is Nanthapong Doangjinda
 ======================================
 
-4th-year Computer Science Student
+Software Engineer
 ---------------------------------
 
 * 🌍  I'm based in Bangkok , Thailand
